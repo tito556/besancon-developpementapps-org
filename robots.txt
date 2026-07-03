@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://besancon.developpementapps.org/sitemap.xml
